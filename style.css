@@ -1,4 +1,4 @@
-footer {
+٥footer {
     background: #1a2e1c;
     color: rgba(255, 255, 255, 0.7);
     padding: 48px 5vw 24px;
@@ -79,5 +79,5 @@ footer {
   color: white;
 }
 .footer-brand-discription{
-    display:block 
+    display:flex 
 }
